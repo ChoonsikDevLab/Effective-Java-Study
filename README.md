@@ -3,7 +3,7 @@
 [![Since](https://img.shields.io/badge/since-2025.04.26-333333.svg?style=flat-square)](https://github.com/ChoonsikDevLab/Rabbit-Study)
 [![Until](https://img.shields.io/badge/until-2025.00.00-333333.svg?style=flat-square)](https://github.com/ChoonsikDevLab/Rabbit-Study)
 
-![image](https://image.yes24.com/goods/65551284/XL)
+![image](https://github.com/user-attachments/assets/5e9a153e-5286-4e8f-8a64-d0b31286d089)
 
 ## 🖥️ Contents
 - 01장: 들어가기
